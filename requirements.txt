@@ -1,0 +1,5 @@
+gradio>=6.0.0
+numpy>=1.26.0
+soundfile>=0.12.1
+faster-whisper>=1.0.0
+pyttsx3>=2.90
