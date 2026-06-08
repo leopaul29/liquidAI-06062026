@@ -1,7 +1,7 @@
 import gradio as gr
 import torch
 import soundfile as sf
-from liquid_audio import LFM2AudioModel, LFM2AudioProcessor
+# from liquid_audio import LFM2AudioModel, LFM2AudioProcessor
 
 # Le chemin vers le dossier COMPLET que tu as récupéré de Lightning.ai
 PATH_TO_MODEL = "./mon_modele_tts_complet" 
